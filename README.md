@@ -18,13 +18,14 @@ A modern full-stack task management web application that allows users to efficie
 ### 📋 Task Dashboard
 ![Tasks](./images/4.png)
 
-### 📊 Statistics Page
+### ✏️ Add Folder 
 ![Stats](./images/5.png)
 
 ### ➕ Add Task
 ![Add Task](./images/6.png)
 
-### ✏️ Edit Task
+
+### 📊 Statistics Page
 ![Edit Task](./images/7.png)
 
 ---
